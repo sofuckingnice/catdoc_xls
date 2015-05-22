@@ -4,7 +4,7 @@
             "type": "package",
             "package": {
                 "name": "dilshod/xlsx2csv",
-                "version": "1.0.0",
+                "version": "dev",
                 "source": {
                     "url": "https://github.com/dilshod/xlsx2csv.git",
                     "type": "git",
